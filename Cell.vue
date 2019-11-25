@@ -34,9 +34,9 @@
         transition: all .5s linear;
 
     }
-    /*.cell:hover {
-        box-shadow: 0 -50px 10px #8ed3c9;
+    .cell:hover {
+        box-shadow: 0 0 10px rebeccapurple;
         opacity: 0.5;
-    }*/
+    }
 
 </style>
