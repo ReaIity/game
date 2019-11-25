@@ -101,27 +101,7 @@ body {
         height: fit-content;
         padding: 5px;
       }
-      .moveTop {
-        transition: all 3s linear;
-        transform: translate(0,-100px);
-      }
-      .moveDown {
-        transition: all 3s linear;
-        transform: translate(0, +100px);
-      }
-      .moveRight {
-
-      }
-      .moveLeft {
-
-      }
     }
   }
 }
 </style>
-<!--
-  position: absolute;
-  left: 50%;
-  transform: translate(0, 50%);
-  margin: 0;
-  padding: 0;-->
