@@ -51,7 +51,7 @@ export default {
       for (let index = 0; index < this.model.length; index++) {
         if (this.model[index] == this.cells[index]) result++;
       }
-      if (result > 15) alert("вы победили!");
+      if (result > 15) alert("Вы победили!");
     },
     moveCell(index) {
       let valueCell = this.cells[index];
